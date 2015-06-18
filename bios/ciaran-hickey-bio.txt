@@ -1,3 +1,4 @@
 Ciaran J. Hickey
 PhD, 3rd year
 C++, Fortran90
+Data anlysis (maybe too general?)
