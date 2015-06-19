@@ -1,4 +1,4 @@
 Andre R. Erler
 PhD (Physics), 7th year
-Python, Fortran, Matlab
-Climate Modeling, Extreme Weather
+Python/SciPy, Fortran, Matlab
+Climate Modeling (geospatial analysis), Extreme Weather (statistics)
